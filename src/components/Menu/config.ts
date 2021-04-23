@@ -93,7 +93,7 @@ const config: MenuEntry[] = [
   {
     label: 'IFO',
     icon: 'IfoIcon',
-    href: 'https://pancakeswap.finance/ifo',
+    href: 'https://wifeswap',
   },
   {
     label: 'More',
@@ -120,8 +120,8 @@ const config: MenuEntry[] = [
         href: 'https://pancakeswap.medium.com',
       },
       {
-        label: 'Merch',
-        href: 'https://pancakeswap.creator-spring.com/',
+        label: 'Get Real Girls',
+        href: 'https://wifeswap.girlsforcryptos.com/',
       },
     ],
   },
