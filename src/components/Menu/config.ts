@@ -32,21 +32,21 @@ const config: MenuEntry[] = [
     href: 'https://pancakeswap.finance/pools',
   },
   {
-    label: 'Lottery',
+    label: 'Virtual Sex',
     icon: 'TicketIcon',
     href: 'https://pancakeswap.finance/lottery',
     status: {
-      text: 'WIN',
+      text: 'FUCK',
       color: 'warning',
     },
   },
   {
-    label: 'Collectibles',
+    label: 'Sex Dolls',
     icon: 'NftIcon',
     href: 'https://pancakeswap.finance/nft',
   },
   {
-    label: 'Team Battle',
+    label: 'Orgy',
     icon: 'TeamBattleIcon',
     href: 'https://pancakeswap.finance/competition',
   },
