@@ -8,7 +8,7 @@
   },
   "tags": {},
   "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
-  "keywords": ["pancake", "default"],
+  "keywords": ["wife", "default"],
   "tokens": [
     {
       "name": "WBNB Token",
@@ -187,8 +187,8 @@
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x7083609fce4d1d8dc0c979aab8c869ea2c873402.png"
     },
     {
-      "name": "PancakeSwap Token",
-      "symbol": "CAKE",
+      "name": "WifeSwap Token",
+      "symbol": "WIFE",
       "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
       "chainId": 56,
       "decimals": 18,
